@@ -1,12 +1,15 @@
-DAY 1:
-Intro to ai and ml
-Numpy
-Pandas
-Matplotlib
+DAY 1 :
 
-DAY 2:
-Revision of day 1
-Linear Regression Maths
-Spliting dataset into training testing
-Training and testing the Simple Linear Regression model on the Training set
-Visualizing results
+- Intro to ai and ml
+- Numpy
+- Pandas
+- Matplotlib
+
+DAY 2 :
+
+- Revision of day 1
+- Linear Regression Maths
+- Spliting dataset
+- Training and testing a Linear Regression Model
+- Visualizing results
+- Quiz
