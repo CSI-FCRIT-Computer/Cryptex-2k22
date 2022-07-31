@@ -1,0 +1,43 @@
+Day 1 :
+
+		Introduction to Python Programming
+		Variables
+		Input Output
+		Operators
+		Typecasting
+		Identations
+		Comments
+		Strings 
+		Conditional Statements
+		Loops
+		Data Structures in Python
+		Functions
+
+	Questions :
+
+		1) Print a List
+		2) Generate the A.P in a list
+		3) Fibonacci Series (first 10 elements)
+		4) Factorial Recursion Problem
+		5) Write a function to find the duplicate number on given integer array/list.
+
+	Math Module 
+	1) Construct the following equation in python
+ 	  R = (u^2 sin 2θ) /g The program must take in values of u, θ and g and give the R as output.
+	2) GCD 
+	3) Power
+
+	Hackerrank 
+
+
+Day 2 : 
+		Object Oriented Programming in Python (OOPS)
+		Classes and Objects
+		Inheritence and types
+		Access Specifier
+
+		OOPs tasks
+		Final Quiz 
+
+
+		
