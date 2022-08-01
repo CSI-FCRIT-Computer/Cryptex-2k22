@@ -1,0 +1,50 @@
+
+body{
+  background-color: #F5EDDC;
+  text-align: center;
+}
+.name{
+  margin:50px;
+  color:#377D71;
+  font-family:cursive;
+  font-size: 2rem;
+}
+
+.image{
+  width:30%;
+
+  /* margin: auto; */
+}
+
+.greet{
+  font-family: monospace;
+  color: #5A8F7B;
+  font-size: 50px;
+  margin-bottom: 5px;
+
+}
+
+.desc{
+  font-family:serif;
+  font-size: 18px;
+  width: 55%;
+  margin: 0 auto;
+  color: 	#606060;
+  margin-bottom: 50px;
+}
+
+.lang-name{
+  font-family:serif;
+  font-size: 18px;
+  width: 5%;
+  margin: 0 auto;
+  color: 	#606060;
+  margin-bottom: 50px;
+}
+
+hr{
+  width: 60%;
+}
+.contact{
+  color:#377D71;
+}
